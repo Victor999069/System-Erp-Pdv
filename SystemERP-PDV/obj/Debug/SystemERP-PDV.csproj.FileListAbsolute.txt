@@ -1,0 +1,11 @@
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\bin\Debug\SystemERP-PDV.exe.config
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\bin\Debug\SystemERP-PDV.exe
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\bin\Debug\SystemERP-PDV.pdb
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\obj\Debug\SystemERP-PDV.csproj.AssemblyReference.cache
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\obj\Debug\SystemERP-PDV.csproj.SuggestedBindingRedirects.cache
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\obj\Debug\SystemERP_PDV.Cadastro_Usuario.resources
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\obj\Debug\SystemERP_PDV.Properties.Resources.resources
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\obj\Debug\SystemERP-PDV.csproj.GenerateResource.cache
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\obj\Debug\SystemERP-PDV.csproj.CoreCompileInputs.cache
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\obj\Debug\SystemERP-PDV.exe
+C:\Users\Comercial\Desktop\SystemERP-PDV\SystemERP-PDV\obj\Debug\SystemERP-PDV.pdb
